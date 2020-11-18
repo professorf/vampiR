@@ -1,11 +1,14 @@
 Package: vampiR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: A Web Page Scraper
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Nick V. Flor (@ProfessorF)
+Maintainer: The package maintainer <nickflor@mentalystemsinc.com>
+Description: A user-friendly interface to scraping a web page and all linked pages.
+    Users proficient with regular expressions have more precise control over
+    the content that is scraped.
+License: GNU GPLv3
 Encoding: UTF-8
 LazyData: true
+Imports:
+    
